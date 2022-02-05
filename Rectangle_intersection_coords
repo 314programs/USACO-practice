@@ -1,1 +1,0 @@
-x1, y1, x2, y2 = max(Black1[0], Black2[0]), max(Black1[1], Black2[1]), min(Black1[2], Black2[2]), min(Black1[3], Black2[3])
